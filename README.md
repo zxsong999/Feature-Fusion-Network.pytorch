@@ -81,19 +81,7 @@ $ python cifar_train_classifier.py --arch resnet32 --dataset 'cifar100' --loss_t
 $ python imagenet_train_classifier.py --arch resnet50 --root ImageNet_PATH --loss_type 'LDAM' --batch_size 64 --learning_rate 0.1  --lam 0.9  --resume_KPS 'Stage-1_KPS/ckpt.best.pth.tar' --resume_CE 'Stage-1_CE/ckpt.best.pth.tar'
 ```
 
-## <a name="Citation"></a>Citation
 
-Please consider citing DFFN in your publications if it helps your research. :)
-
-```bib
-未定
-@inproceedings{zhong2021mislas,
-    title={Improving Calibration for Long-Tailed Recognition},
-    author={Zhisheng Zhong, Jiequan Cui, Shu Liu, and Jiaya Jia},
-    booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2021},
-}
-```
 
 ## Contact
 
