@@ -1,7 +1,7 @@
-# DFFN:Differentiated Feature Fusion Network for Long-tailed Visual Recognition
+# FFN: Feature Fusion Network for Long-tailed Visual Recognition
 **Authors**: XueSong Zhou, JunHai Zhai, Yang Cao
 
-This is the [source code](https://github.com/zxsong999/Differentiated-Feature-Fusion-Network.pytorch) for our  paper: Differentiated Feature Fusion Network for Long-tailed Visual Recognition  
+This is the [source code](https://github.com/zxsong999/Feature-Fusion-Network.pytorch) for our  paper: Feature Fusion Network for Long-tailed Visual Recognition  
 
 <div align="center">
   <img src="./images/DFFN.png" style="zoom:90%;"/>
